@@ -14,3 +14,4 @@ https://old.death.cl/
 [https://visualboyadvance.org]
 [https://eclipseemu.me]
 [https://rollmyfile.com]
+[https://mcraft.fun]
